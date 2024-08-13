@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.go-back-and-restart {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  gap: 5%;
+}
+
+button {
+  width: fit-content;
+  padding: 1em;
+}
+
+
+.inactive {
+  color: rgb(169, 169, 169);
+}

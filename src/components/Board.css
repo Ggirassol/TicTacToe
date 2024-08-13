@@ -1,0 +1,15 @@
+.board {
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+
+.row {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  }
+  
+.status {
+  margin-top: 2vh;
+  text-align: center;
+}

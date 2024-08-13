@@ -1,0 +1,15 @@
+.square {
+    background-color: rgb(244, 233, 28);
+    height: 15vh;
+    width: 15vh;
+    font-size: xx-large;
+    border-color: grey;
+  }
+
+  .x {
+    color: red;
+  }
+
+  .o {
+    color: blue;
+  }
